@@ -27,8 +27,7 @@ I build things at the intersection of **full-stack development**, **AI**, and **
 ---
 
 ## Let's connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kashish_Seth-0A66C2?style=flat&logo=linkedin)](www.linkedin.com/in/kashishwork011)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kashish_Seth-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/kashishwork011)
 [![Email](https://img.shields.io/badge/Email-kashishwork011@gmail.com-EA4335?style=flat&logo=gmail)](mailto:kashishwork011@gmail.com)
 
 *Open to frontend / full-stack / fintech internship opportunities — summer 2026*
