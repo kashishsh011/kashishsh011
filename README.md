@@ -1,6 +1,4 @@
-
-<!--
-**kashishsh011/kas# Hi, I'm Kashish Seth 👋
+# Hi, I'm Kashish 
 
 **2nd Year Computer Science and Applied Mathematics Student**
 
@@ -33,7 +31,4 @@ I build things at the intersection of **full-stack development**, **AI**, and **
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kashish_Seth-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/kashish-seth-b09a58260/)
 [![Email](https://img.shields.io/badge/Email-kashishwork011@gmail.com-EA4335?style=flat&logo=gmail)](mailto:kashishwork011@gmail.com)
 
-*Open to frontend / full-stack / fintech internship opportunities — summer 2026*hishsh011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
--->
+*Open to frontend / full-stack / fintech internship opportunities — summer 2026*
