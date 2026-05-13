@@ -10,9 +10,9 @@ I build things at the intersection of **full-stack development**, **AI**, and **
 
 | Project | Stack | What it does |
 |---------|-------|--------------|
-| [**Nishpaksh**](https://github.com/kashishsh011/Nishpaksh) | React · FastAPI · Gemini AI | India's first AI hiring bias auditor — detects caste, SES & college-tier discrimination in CSV data. Live → [nishpaksh-41348.web.app](https://nishpaksh-41348.web.app/) |
+| [**Nishpaksh**](https://github.com/kashishsh011/Nishpaksh) | React · FastAPI · Gemini AI | India's first AI hiring bias auditor — detects caste, SES & college-tier discrimination in CSV data. Live - [nishpaksh-41348.web.app](https://nishpaksh-41348.web.app/) |
 | [**PulseStock**](https://github.com/kashishsh011/PulseStock) | JavaScript · CSS | Multi-signal stock scoring engine for Indian equities — fuses fundamentals, technicals, news sentiment & global macro regime |
-| [**Visarjan**](https://github.com/kashishsh011/Visarjan_final) | Next.js · Tailwind | Civic-tech platform for responsible festival waste disposal — connects households to verified collection centres |
+| [**Visarjan**](https://github.com/kashishsh011/Visarjan_final) | Next.js · Tailwind | Civic-tech platform for responsible festival waste disposal — connects households to verified collection centres. Live - [visarjan.vercel.app](https://visarjan.vercel.app/) |
 
 ---
 
